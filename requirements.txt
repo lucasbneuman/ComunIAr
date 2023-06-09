@@ -1,0 +1,5 @@
+pywhatkit
+pandas
+secure-smtplib
+beautifulsoup4
+selenium
