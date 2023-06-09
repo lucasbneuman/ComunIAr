@@ -8,3 +8,18 @@ Time: 16:33
 Phone Number: +543517544095
 Message: Hola, encontré su sitio web y me gustaría ofrecerle nuestros servicios relacionados. ¿Podemos programar una reunión para discutir los detalles?
 --------------------
+Date: 9/6/2023
+Time: 20:34
+Phone Number: +543517544095
+Message: Hola, me gustaría ofrecerle nuestros servicios. Aunque no encontré un sitio web para su negocio, podemos discutir más detalles por teléfono. ¿Podemos hablar en breve?
+--------------------
+Date: 9/6/2023
+Time: 20:35
+Phone Number: +543517544095
+Message: Hola, encontré su sitio web y me gustaría ofrecerle nuestros servicios relacionados. ¿Podemos programar una reunión para discutir los detalles?
+--------------------
+Date: 9/6/2023
+Time: 20:36
+Phone Number: +543517544095
+Message: Hola, me gustaría ofrecerle nuestros servicios. Aunque no encontré un sitio web para su negocio, podemos discutir más detalles por teléfono. ¿Podemos hablar en breve?
+--------------------

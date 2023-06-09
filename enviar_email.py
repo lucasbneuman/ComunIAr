@@ -7,7 +7,9 @@ def enviar_correo(destinatario, asunto, mensaje):
     password = 'gwkujqwybzoxdodw'
 
     cuerpo_correo = f"""\
-    Asunto: {asunto}
+    From: {remitente}
+    To: {destinatario}
+    Subject: {asunto}
 
     {mensaje}
     """
